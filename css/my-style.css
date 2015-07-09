@@ -27,16 +27,25 @@ nav ul {
 }
 
 li h1 {
-    font-size: 14px;
+    font-size: 24px;
     color: #2a2a2a;
+    margin-left: 20px;
     
 }
+    
+    img {
+        height: 15px;
+        width: 15px;
+    }
 
 nav h1, nav ul, nav ul li {
     float: left;
 }
     
-
+    #homepage {
+    margin-left: 440px;
+    
+    }
 
 nav ul {
     list-style: none;
