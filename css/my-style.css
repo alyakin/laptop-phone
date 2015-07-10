@@ -16,6 +16,8 @@
 nav.container {
     background-color: #fff;
     height: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .container {
@@ -76,20 +78,20 @@ nav ul li a {
     
     .left-top-box {
         width: 40%%;
-        height: 500px;
+        height: 410px;
         background-color: #3f3f3f;
-        margin-left: 50px;
+        margin-left: 10%;
         margin-top: 40px;
         margin-bottom: 40px;
-        margin-right: 10px;
+        margin-right: 5%;
     }
     
     #small-box1, #small-box2, #small-box3, #small-box4 {
-        width: 18%;
-        height: 225px;
+        width: 20%;
+        height: 200px;
         background-color: #3f3f3f;
-        margin-left: 10%;
-        margin-bottom: 40px;
+        margin-left: 2%;
+        margin-bottom: 10px;
         float: right;
         
     }
