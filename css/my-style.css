@@ -120,6 +120,7 @@ nav ul li a {
         margin-top: 40px;
         margin-bottom: 40px;
         margin-right: 5%;
+        float: right;
         
 
     }
@@ -130,24 +131,17 @@ nav ul li a {
         background-color: #3f3f3f;
         margin-left: 2%;
         margin-bottom: 10px;
-        float: right;
+        float: left;
         
     }
-        
-        
     
-    #small-box7 {
+    .right-bottom-box {
         clear: both;
     }
-    
-    #small-box5, #small-box7 {
-        margin-left: 5%;
+    .footer {
+        text-align: center;
     }
-    #small-box7 {
-        margin-left: 5%;
-    }
-    
-
+   
 }
 
 /*----------------- phone css -----------------*/
