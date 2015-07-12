@@ -79,7 +79,7 @@ nav ul li a {
     .left-top-box {
         width: 40%;
         height: 410px;
-        background-color: #3f3f3f;
+        background-color: #ffff4c;
         margin-left: 10%;
         margin-top: 40px;
         margin-bottom: 40px;
@@ -107,6 +107,11 @@ nav ul li a {
     #small-box3 {
         margin-right: 5%;
     }
+    
+    #small-box4 {
+        background-color: #acacac;
+    }
+    
     .bottom-boxes {
         width: 91.5%;
         margin: 0 auto;
@@ -137,6 +142,7 @@ nav ul li a {
     
     .right-bottom-box {
         clear: both;
+        background-color: #acacac;
     }
     .footer {
         text-align: center;
