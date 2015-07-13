@@ -121,15 +121,9 @@ nav ul li a {
         width: 40%;
         height: 410px;
         background-color: #3f3f3f;
-        /*
-        margin-left: 10%;
-<<<<<<< HEAD
         
         margin-top: 40px;
         margin-bottom: 40px;
-        */
-=======
->>>>>>> origin/master
         margin-right: 5%;
         float: right;
         
@@ -279,14 +273,12 @@ nav ul li a {
     }
     
     .right-bottom-box {
-<<<<<<< HEAD
         width: 90%;
         height: 350px;
         background-color: #ffff4c;
         margin-left: 5%;
         margin-top: 10px;
         margin-bottom: 10px;
-=======
         width: 40%;
         height: 410px;
         background-color: #ffff4c;
@@ -295,7 +287,7 @@ nav ul li a {
         margin-bottom: 40px;
         margin-right: 5%;
         float: right;
->>>>>>> origin/master
+
         
 
     }
@@ -304,14 +296,12 @@ nav ul li a {
         width: 45%;
         height: 250px;
         background-color: #3f3f3f;
-<<<<<<< HEAD
+
         margin-left: 2%;
         margin-bottom: 10px;
         float: right;
         
-=======
-        float: left;
->>>>>>> origin/master
+
         
     }
     
