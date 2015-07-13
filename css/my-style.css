@@ -260,13 +260,13 @@ nav ul li a {
     
     .bottom-boxes {
         width: 91.5%;
-        margin: 0 auto;
+        margin: 25px;
     }
     
     .right-bottom-box {
         width: 40%;
         height: 410px;
-        background-color: #3f3f3f;
+        background-color: #ffff4c;
         margin-left: 10%;
         margin-top: 40px;
         margin-bottom: 40px;
@@ -286,7 +286,7 @@ nav ul li a {
     
     .right-bottom-box {
         clear: both;
-        background-color: #acacac;
+        background-color: #ffff4c;
     }
     .footer {
         text-align: center;
