@@ -121,9 +121,12 @@ nav ul li a {
         width: 40%;
         height: 410px;
         background-color: #3f3f3f;
+        /*
         margin-left: 10%;
+        
         margin-top: 40px;
         margin-bottom: 40px;
+        */
         margin-right: 5%;
         float: right;
         
@@ -137,7 +140,11 @@ nav ul li a {
         margin-left: 2%;
         margin-bottom: 10px;
         float: left;
+    
         
+    }
+    #small-box5, #small-box7 {
+        margin-left: 10%;
     }
     
     .right-bottom-box {
@@ -146,6 +153,7 @@ nav ul li a {
     }
     .footer {
         text-align: center;
+        clear: both;
     }
    
 }
@@ -260,31 +268,32 @@ nav ul li a {
         background-color: #acacac;
     }
     
-    .bottom-boxes {
+    /* bottom phone css starts */
+    
+    .bottom-boxes1, .bottom-boxes2 {
         width: 91.5%;
         margin: 0 auto;
     }
     
     .right-bottom-box {
-        width: 40%;
-        height: 410px;
-        background-color: #3f3f3f;
-        margin-left: 10%;
-        margin-top: 40px;
-        margin-bottom: 40px;
-        margin-right: 5%;
-        float: right;
+        width: 90%;
+        height: 350px;
+        background-color: #ffff4c;
+        margin-left: 5%;
+        margin-top: 10px;
+        margin-bottom: 10px;
         
 
     }
     
     #small-box5, #small-box6, #small-box7, #small-box8 {
-        width: 20%;
-        height: 200px;
+        width: 45%;
+        height: 250px;
         background-color: #3f3f3f;
         margin-left: 2%;
         margin-bottom: 10px;
-        float: left;
+        float: right;
+        
         
     }
     
@@ -294,5 +303,7 @@ nav ul li a {
     }
     .footer {
         text-align: center;
+        clear: both;
+        height: 50px;
     }
 }
